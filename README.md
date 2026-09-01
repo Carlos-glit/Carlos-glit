@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋 Olá, eu sou Carlos!
+💻 Desenvolvedor | 🚀 Tecnologia | 📚 Aprendizado contínuo
 
-<!--
-**Carlos-glit/Carlos-glit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender coisas novas e transformar ideias em projetos.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+💻 Explorando o mundo do desenvolvimento de software
+📚 Sempre aprendendo novas tecnologias
+🔨 Criando projetos para colocar meus conhecimentos em prática
+🎯 Buscando evoluir constantemente como desenvolvedor
+🛠️ Tecnologias
+<div> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </div>
+📊 GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-glit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-glit&layout=compact&langs_count=7&theme=tokyonight"/> </div>
+🌱 Atualmente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Estou focado em melhorar minhas habilidades de programação, desenvolver novos projetos e construir minha experiência na área de tecnologia.
+
+📫 Entre em contato
+💼 GitHub: Carlos-glit
+
+⭐ Seja bem-vindo ao meu perfil!
+
 -->
